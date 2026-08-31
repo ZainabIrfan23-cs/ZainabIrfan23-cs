@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Zainab 👋
 
-<!--
-**ZainabIrfan23-cs/ZainabIrfan23-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at COMSATS University Islamabad, Lahore Campus
 
-Here are some ideas to get you started:
+I'm currently exploring the world of Computer Science and building my skills through university coursework, projects, and independent learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Currently Learning
+
+- C++
+- Java
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- JavaFX & GUI Development
+
+### 🌱 Exploring
+
+- Software Development
+- Artificial Intelligence
+- Cybersecurity
+- Other areas of Computer Science
+
+### 🛠️ Projects
+
+🎮 **[Maze Game](#)**  
+A console-based maze navigation game developed in C++ using 2D arrays, movement logic, and collision detection.
+
+☕ **[Central Perk Café Management System](#)**  
+A JavaFX-based café management system developed in Java as a four-member Object-Oriented Programming project.
+
+### 📚 My Goal
+
+To keep learning, build meaningful projects, and document my growth throughout my Computer Science journey.
+
+---
+
+Thanks for visiting my profile! 💜
