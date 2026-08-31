@@ -21,7 +21,7 @@ I'm currently exploring the world of Computer Science and building my skills thr
 
 ### 🛠️ Projects
 
-🎮 **[Maze Game](#)**  
+🎮 **[Maze Game](https://github.com/ZainabIrfan23-cs/maze-game-cpp)**  
 A console-based maze navigation game developed in C++ using 2D arrays, movement logic, and collision detection.
 
 ☕ **[Central Perk Café Management System](#)**  
